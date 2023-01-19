@@ -1,0 +1,4 @@
+Curriculum ideas:
+- boxplots
+- regression
+- bayes theorem
