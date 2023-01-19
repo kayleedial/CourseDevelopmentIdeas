@@ -2,3 +2,5 @@ Curriculum ideas:
 - boxplots
 - regression
 - bayes theorem
+
+More ideas:
